@@ -1,0 +1,1 @@
+void homeassistant_init();

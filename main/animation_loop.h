@@ -1,0 +1,1 @@
+void animation_loop_init();
